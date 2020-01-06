@@ -11,6 +11,7 @@ namespace Algorithms
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome To Algorithms and DataStructures");
+            Console.WriteLine("Hello World");
         }
     }
 }
