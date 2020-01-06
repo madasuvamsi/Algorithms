@@ -10,6 +10,8 @@ namespace TwoNumberSum
     {
         static void Main(string[] args)
         {
+            //Time Complexity O(nlog(n))
+            //Space Complexity O(n)
             int[] array = new int[8] { 3, 5, -4, 8, 11, 1, -1, 6 };//Initial Array
             int targetSum = 10;//Target Sum
             Array.Sort(array);
