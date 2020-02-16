@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSumWithNoAdjacent", "Max
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaysToMakeChange", "WaysToMakeChange\WaysToMakeChange.csproj", "{A39FF4DC-3BB1-4D24-8360-FD33F4A0B973}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayLeftRightPointing", "ArrayLeftRightPointing\ArrayLeftRightPointing.csproj", "{C129E153-9872-49F5-8811-75363E5DA6FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A39FF4DC-3BB1-4D24-8360-FD33F4A0B973}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A39FF4DC-3BB1-4D24-8360-FD33F4A0B973}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A39FF4DC-3BB1-4D24-8360-FD33F4A0B973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C129E153-9872-49F5-8811-75363E5DA6FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C129E153-9872-49F5-8811-75363E5DA6FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C129E153-9872-49F5-8811-75363E5DA6FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C129E153-9872-49F5-8811-75363E5DA6FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
