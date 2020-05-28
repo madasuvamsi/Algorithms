@@ -27,7 +27,7 @@ namespace DuplicateCheck
         /*
          Array.Sort() method uses quick sort
          On average, this method is an O(n log n) operation, where n is Count;
-         in the worst case it is an O(n2) operation.
+         in the worst case it is an O(n2) operation. According to Microsoft documentation
 
          The Time complexity for this alforithm is O(nlogn) for Average case
          and O(n2) for Worst case and the Space complexity is O(1)

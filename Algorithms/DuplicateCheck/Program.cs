@@ -29,7 +29,7 @@ namespace DuplicateCheck
         }
 
         /*Time Complexity for this will be O(n) and 
-         * space complexity is O(n) as we are using a hashset*/
+         * Space complexity is O(n) as we are using a hashset*/
         public static bool ContainsDups(int[] arr)
         {
             /*
